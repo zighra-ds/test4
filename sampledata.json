@@ -72,15 +72,15 @@
             "type":"addSwipe",
                "user_email":"tom@optiologic.com",
                "profile_id":{
-                  "udid":"1234567890",
-                  "name":"testprofile001",
-                  "created":1408565098
+                  "udid":"1234567893",
+                  "name":"testprofile301",
+                  "created":1408545098
                },
                "action_status":0,
                "model_index":1,
                "model_number":1,
                "threshold":2.5,
-               "time":1408564197,
+               "time":1408545098,
                "shield":3,
                "geolocation":"lol",
                "swipe_value":7,
