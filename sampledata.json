@@ -1,7 +1,7 @@
 [
          {
             "type":"addSwipe",
-               "user_email":"sameer@optiologic.com",
+               "user_email":"bob@optiologic.com",
                "profile_id":{
                   "udid":"1234567890",
                   "name":"testprofile001",
