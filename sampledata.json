@@ -5,6 +5,7 @@
       "shield":0,
       "udid":"1234567890",
       "resetBatches":false,
+      "time":1408564197,
       "actions":[
          {
             "type":"addSwipe",
@@ -48,6 +49,7 @@
       "shield":3,
       "udid":"1234567890",
       "resetBatches":false,
+      "time":1408564197,
       "actions":[
          {
             "type":"addSwipe",
