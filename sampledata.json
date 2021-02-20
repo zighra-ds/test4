@@ -2,7 +2,7 @@
          {
             "type":"addSwipe",
                "user_email":"bob@optiologic.com",
-               "profile_id":{
+               "profile":{
                   "udid":"1234567890",
                   "name":"testprofile001",
                   "created":1408565098
@@ -71,7 +71,7 @@
          {
             "type":"addSwipe",
                "user_email":"tom@optiologic.com",
-               "profile_id":{
+               "profile":{
                   "udid":"1234567893",
                   "name":"testprofile301",
                   "created":1408545098
