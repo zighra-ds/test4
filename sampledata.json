@@ -1,7 +1,6 @@
 [
          {
             "type":"addSwipe",
-            "params":{
                "user_email":"sameer@optiologic.com",
                "profile_id":{
                   "udid":"1234567890",
@@ -68,11 +67,9 @@
                      "a":0.9214381575584412
                   }
                ]
-            }
          },
          {
             "type":"pinSuccess",
-            "params":{
                "email":"sameer@optiologic.com",
                "profile_id":{
                   "udid":"1234567890",
@@ -81,8 +78,7 @@
                },
                "actionStatus":0,
                "modelIndex":1
-            }
          }
-      
-  
+
+
 ]
